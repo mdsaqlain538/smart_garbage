@@ -1,0 +1,56 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_marginTop="300px"
+        android:layout_marginLeft="96px"
+        android:layout_width="550px"
+        android:layout_height="100px"
+        android:hint="Name">
+    </EditText>
+    <EditText
+        android:id="@+id/email"
+        android:layout_marginTop="100px"
+        android:layout_marginLeft="96px"
+        android:layout_width="550px"
+        android:layout_height="100px"
+        android:hint="Email">
+    </EditText>
+    <EditText
+        android:id="@+id/password"
+        android:layout_marginTop="100px"
+        android:layout_marginLeft="96px"
+        android:layout_width="550px"
+        android:layout_height="100px"
+        android:hint="Password"
+        >
+    </EditText>
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="180px"
+        android:text="LOGIN"
+        android:layout_marginTop="79px"
+        ></Button>
+
+    <TextView
+        android:id="@+id/newuser"
+        android:layout_marginTop="50px"
+        android:layout_marginLeft="189px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New User?"></TextView>
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50px"
+        android:layout_marginLeft="180px"
+        android:text="Register"></Button>
+</LinearLayout>

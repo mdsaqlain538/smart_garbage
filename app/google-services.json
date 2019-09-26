@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746946579024",
+    "firebase_url": "https://smartgarbage-1bc92.firebaseio.com",
+    "project_id": "smartgarbage-1bc92",
+    "storage_bucket": "smartgarbage-1bc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746946579024:android:08314ca0661fc6f5f95f55",
+        "android_client_info": {
+          "package_name": "com.example.smart_garbage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746946579024-lp7kac2g1ceur7mb1tesll396nvllpr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_garbage",
+            "certificate_hash": "743bb053d2d96108b9afa7af14b416c83ef674db"
+          }
+        },
+        {
+          "client_id": "746946579024-k8vf1q5nncubc66lj5seksk92sj6tv08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxaFnbIGRjjAixbGd8N_K5k8J7H0hDaIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746946579024-k8vf1q5nncubc66lj5seksk92sj6tv08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
